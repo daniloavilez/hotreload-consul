@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: myApp
+  cloud:
+    consul:
+      config:
+        enabled: true
